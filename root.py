@@ -1,6 +1,6 @@
 class App:
     def run(self) -> None:
-        print("app.py")
+        print("root.py")
 
 if __name__ == '__main__':
     app = App()
